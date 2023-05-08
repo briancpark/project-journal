@@ -1,5 +1,5 @@
 <h1 align="center">School Projects</h1>
-Here lies a journal of school coding projects and assignments I have completed at University of California, Berkeley and North Carolina State University. I cannot share the source code of most of the projects because of confidentiality and plagarism, so I will summarize my thoughts and findings here instead. If possible, I will also include a link to the project spec. Having a journal like this helps me keep track of the plethora of projects I've completed at Berkeley and NCSU! Sometimes, I'll read this back in reminiscence of my time at school, so you'll see some personal anecdotes inserted. The projects are presented in sequential order of when I completed them. I hope you enjoy reading this as much as I enjoyed coding these projects!
+Here lies a journal of school coding projects and assignments I have completed at University of California, Berkeley and North Carolina State University. I cannot share the source code for most of the projects because of confidentiality and plagarism, so I will summarize my thoughts and findings here instead. If possible, I will also include a link to the project spec. Having a journal like this helps me keep track of the plethora of projects I've completed at Berkeley and NCSU! Sometimes, I'll read this back in reminiscence of my time at school, so you'll see some personal anecdotes inserted. The projects are presented in sequential order of when I completed them. I hope you enjoy reading this as much as I enjoyed coding these projects!
 
 <h2 align="center">Hog</h2>
 <div align="center">
@@ -61,7 +61,7 @@ Built a full interpreter in Python for Scheme. The program fully replicates the 
 Wrote up homework solutions through LaTeX and visualized problems with Python. Learned about the fundamentals of discrete mathematics and probability, such as proofs, induction, graphs, modular arithmetic, RSA, counting, Bayes' Rule, random variables, probability distirubtions, expectations, variance, Markov Chains, and much much more. It was painful to understand the math, but I'm glad I survived as it setup the foundation for the rest of my math and computer science courses. It was also my first time learning LaTeX. I remember originally turning in handwritten solutions but wasn't satisfied with my homework grades. Once I turned in LaTeX written solutions, my grades for homework consistently went up. Maybe it was the neatness, but I've never did a CS homework or problem set handwritten since then.
 
 > "Every time I read a LaTeX document, I think, wow, this must be correct!"
-> 
+>
 > — Prof. Christos Papadimitriou
 
 <h2 align="center">NBody</h2>
@@ -201,7 +201,6 @@ Created neural networks from scratch to estimate sine wave, classify digits, and
     <img src="media/digits.gif">
 </div>
 
-
 <h2 align="center">Algorithms Homework</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -282,6 +281,7 @@ For the neural network homework, I remember being frustrated as I wanted to trai
 Completed a series of homework related to data science. Involved the full data science lifecycle, from data cleaning, making visualizations, evaluating models, and reasoning the data. Got hands dirty with a variety of machine learning/data science packages such as Pandas, Numpy, Matplotlib, scikit-learn, Seaborn, SciPy, and Plotly.
 
 ##
+
 <h2 align="center">Pintos</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white">
@@ -303,6 +303,7 @@ The course was shortly staffed, but they were extremely helpful, including the s
 </div>
 
 ##
+
 <h2 align="center">Operating Systems Homework</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -327,6 +328,7 @@ Yeah, you're right, it's not as easy as it sounds. Some assignments were really 
 </div>
 
 ##
+
 <h2 align="center">Capture the Flag - Exploiting Memory Vulnerabilities</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -341,6 +343,7 @@ Exploited memory vulnerabilities in C via buffer overflow. The project was setup
 </div>
 
 ##
+
 <h2 align="center">Secure Filesystem</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
@@ -362,6 +365,7 @@ After this realization of a flaw in my design, I spent the beginning of Thanksgi
 </div>
 
 ##
+
 <h2 align="center">Capture the Flag - Website Exploitation</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -375,8 +379,8 @@ Exploited a website using SQL injection, cross-site scripting, and cross-site re
     <img src="media/ctf.gif"/>
 </div>
 
-
 ##
+
 <h2 align="center">Parallel Computing Homework</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
@@ -404,6 +408,7 @@ This class was a lucky oppurtunity to take a course taught by legendary HPC prof
 </div>
 
 ##
+
 <h2 align="center">Computer Architecture Labs</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -425,6 +430,7 @@ Series of computer achitecture labs written in C/C++/RISC-V assembly. Used Chise
 </div>
 
 ##
+
 <h2 align="center">Efficient Video Super Resolution for Mobile Device</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
@@ -432,11 +438,12 @@ Series of computer achitecture labs written in C/C++/RISC-V assembly. Used Chise
 
 This project tasked me to tackle real world problems we see today. Used state of the art (SOTA) Super Resolution DNNs and accelerated them to be deployable on mobile devices. We were tasked to do this in *real-time*. I had to use my knowledge of high performance computing and apply it to mobile devices and machine learning. That's a surprisingly difficult task, especially with today's advancements in AI/ML for mobile devices and the slowing down of Moore's Law. We are constrained by the compute power, energy, memory, and storage of a mobile device. You cannot necessarily solve that issue with more powerful hardware since we're limited by physics. Though the rise of accelerators on mobile devices, such as ARM's SME and Apple's Neural Engine, has made it possible to run deep learning models on mobile devices efficiently, latency and energy wise.
 
-I used [CoCoPIE XGen: A Full-Stack AI-Oriented Optimizing Framework](https://arxiv.org/abs/2206.10620), to accelerate the Super Resolution model for mobile device. [CoCoPIE](https://www.cocopie.ai) is a startup founded by my professor [Xipeng Shen](https://people.engr.ncsu.edu/xshen5/). Their software, [XGen](https://xgen.cocopie.ai/), was released before the semesester started, so I was able to report a few issues and bugs related to my use case in SOTA Super Resolution models. We ran into many issues, but I don't blame the XGen team at all. They were still at an early stage of development and they were prompt in responding to issues and trying to fix them. Doing this project challenged me to tackle real life problems in engineering and industry, where I have to find unique solutions to work around problems blocking me. XGen was not the only tool I had issues with, as I had many issues with using TVM, TensorRT, and NNI. I learned how to use TVM, TensorRT, ONNX, ONNX Runtime, and CoreML and used that to compare the perfomance of state of the art frameworks today. 
+I used [CoCoPIE XGen: A Full-Stack AI-Oriented Optimizing Framework](https://arxiv.org/abs/2206.10620), to accelerate the Super Resolution model for mobile device. [CoCoPIE](https://www.cocopie.ai) is a startup founded by my professor [Xipeng Shen](https://people.engr.ncsu.edu/xshen5/). Their software, [XGen](https://xgen.cocopie.ai/), was released before the semesester started, so I was able to report a few issues and bugs related to my use case in SOTA Super Resolution models. We ran into several issues as the software was still at an early stage of development. Fortunately, they were prompt in responding to issues and fixing them. Doing this project challenged me to tackle real life problems in engineering and industry, where I have to find unique solutions to work around problems blocking me. XGen was not the only tool I had issues with, as I had many issues with using TVM, TensorRT, and NNI, all of which had good and active community support as well. I learned how to use TVM, TensorRT, ONNX, ONNX Runtime, and CoreML and used that to compare the perfomance of state of the art frameworks today.
 
 The repo has been available to view [here](https://github.com/briancpark/video-super-resolution).
 
 ##
+
 <h2 align="center">High Performance Machine Learning Projects</h2>
 <div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
@@ -456,7 +463,54 @@ Detected integer overflow and analyzed instructions using [DrCCTProf](https://gi
     <img src="media/drcctprof.png">
 </div>
 
+<h2 align="center">Optimizing DNN Operators on Mobile GPU</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
+</div>
+
+For this project, I implemented optimized GPU kernels for DNN operatiors via OpenCL. Specifically, I added full GPU support to RegNet and ShuffleNet V2. This was a contribution towards the XiaoMi's MACE open source project, a framework for DNNs on mobile smartphones. There needed to be support for group convolution for RegNet and channel shuffle for ShuffleNet in order to complete the support for the models to run on mobile GPUs.
+
+I've had experience writing optimized DNN kernels for CPU, but not much for GPU. This was also my first attempt at learning and programming OpenCL programs. I've had prior experience in CUDA, but it was definitely a challenge to learn and adapt to OpenCL's style and semantics for parallel programming. The most difficult part was adapting to the Android Development environment for low level programming, where it's not debugging friendly towards C/C++/OpenCL code (this is probably why Java and Kotlin exist). Fortunately, the MACE developers documented the framework well for me to pick up and learn.
+
+I learned how to write OpenCL code, expanding my GPU programming skills beyond CUDA devices!
+
+The repo has been available to view [here](https://github.com/briancpark/csc766-project).
 
 ##
+
+<div align="center">
+    <img src="https://github.com/briancpark/mace/blob/master/docs/mace-logo.png?raw=true">
+</div>
+
+<h2 align="center">GPGPU Simulator and CUDA Projects</h2>
+<div align="center">
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+</div>
+
+A series of projects where I programmed in CUDA programming language. Those programming projects were writing optimized GPU kernels for quantum simulation, such as optimizing matrix multiplication for a multi-qubit gate quantum simulation. The quantum simulation optimized involved this algorithm:
+
+```math
+\left(\begin{array}{l}
+a_{b_{n-1}, \ldots, b_{t+1}, 0, b_{t-1}, \ldots, b_0}^{\prime} \\
+a_{b_{n-1}^{\prime}, \ldots, b_{t+1}, 1, b_{t-1}, \ldots, b_0}
+\end{array}\right)=\left[\begin{array}{ll}
+U_{0,0} & U_{0,1} \\
+U_{1,0} & U_{1,1}
+\end{array}\right]\left(\begin{array}{l}
+a_{b_{n-1}, \ldots, b_{t+1}, 0, b_{t-1}, \ldots, b_0} \\
+a_{b_{n-1}, \ldots, b_{t+1}, 1, b_{t-1}, \ldots, b_0}
+\end{array}\right)
+```
+
+Optimizations for the CUDA kernel for quantum simulation included taking advantage of shared memory, as well as thread coarsening. And I later analyzed the performance of the GPU kernels I implmented, or other benchmarks such as Rodinia or ISPASS, under GPGPU-Sim. GPGPU-Sim is a simulator based on CUDA enabled devices written in C++. Other GPGPU-Sim related projects included implementing research papers of microarchitectural optimizations for GPUs into GPGPU-Sim, such as one of the works published from my professor and NVIDIA: [Locality-Driven Dynamic GPU Cache Bypassing](https://research.nvidia.com/publication/2015-06_locality-driven-dynamic-gpu-cache-bypassing). The GPGPU-Sim analysis included analyzing cache bypassing mechanisms, global and shared memory access patterns, warp scheduling policies, brach divergence, and profiling-based optimizations.
+
+The project was a great learning experience for me to understand how GPUs work and how to optimize GPU kernels with microarchitectural features of NVIDIA GPUs in mind. I thought GPU simulator and architecture would be much more challenging to learn compared against a CPU simulator and architecture, but it was actually quite easy to pick up and learn. I noticed that the GPU is much more simpler to deal with compared to CPU since a CPU is meant to be general purpose, while a GPU is meant to be specialized for *massively parallel* workloads. Overall, it was nice to learn more about SIMD and SIMT processor achitecture and have this in mind when writing vector or GPU programs.
+
+<div align="center">
+    <img src="media/gpgpusim.png">
+</div>
+
+##
+
 <h2 align="center">Conclusion</h2>
 Every semester awaits an interesting project or assignment applying the knowledge learned in class. I make it a mission to pour 100% of my effort into every project I work on, whether it's on the job, for school, or for a personal side project. Computer Science is a very broad topic, so it's not easy to keep track of every project and what I learned from each one of them. Hell, I've went from basic Python programming, building web apps, designing a CPU, writing matrix multiplication in Assembly and accelerating it with SIMD and MIMD, writing kernel code for a toy OS, accelerating particle simulation by 1000X+ on today's top supercomputer, to accelerating state of the art deep learning models. It's a crazy ride of topics and domains to go through. Although most of these are toy projects and aren't applicable or deployable into the real world, they are still fun problems to tackle and understand fundamentals from. Having a bachelors and masters degree does not mean the learning ends there though, and I wish to continue to self learn and build personal projects on the side!
