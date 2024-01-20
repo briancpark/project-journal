@@ -140,7 +140,7 @@ Made an artificial neural network in RISC-V assembly. Uses Venus, a Java backend
 
 In an advanced computer architecture class, I further learned how to accelerate matrix multiplication in assembly using the RISC-V vector extension (RVV) instrinsics!
 <div align="center">
-    <img src="https://thumbs.gfycat.com/BaggyFearlessCrocodile-max-1mb.gif">
+    <img src="media/neuralnetwork.gif">
 </div>
 
 <h2 align="center">RISC-V CPU</h2>
@@ -251,7 +251,7 @@ I remember frying 3 of my microcontrollers. During the final presentation, I had
 
 <h2 align="center">Kaggle InClass Prediction Competition</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://people.eecs.berkeley.edu/~jrs/189/">Course Website with Spec</a><br>
@@ -280,7 +280,7 @@ For the neural network homework, I remember being frustrated as I wanted to trai
 
 Completed a series of homework related to data science. Involved the full data science lifecycle, from data cleaning, making visualizations, evaluating models, and reasoning the data. Got hands dirty with a variety of machine learning/data science packages such as Pandas, Numpy, Matplotlib, scikit-learn, Seaborn, SciPy, and Plotly.
 
-##
+
 
 <h2 align="center">Pintos</h2>
 <div align="center">
@@ -302,7 +302,6 @@ The course was shortly staffed, but they were extremely helpful, including the s
     <img src="media/cs162bean.png">
 </div>
 
-##
 
 <h2 align="center">Operating Systems Homework</h2>
 <div align="center">
@@ -327,7 +326,6 @@ Yeah, you're right, it's not as easy as it sounds. Some assignments were really 
     <img src="media/os_theory.jpg">
 </div>
 
-##
 
 <h2 align="center">Capture the Flag - Exploiting Memory Vulnerabilities</h2>
 <div align="center">
@@ -342,7 +340,6 @@ Exploited memory vulnerabilities in C via buffer overflow. The project was setup
     <img src="media/bufferoverflow.png"/>
 </div>
 
-##
 
 <h2 align="center">Secure Filesystem</h2>
 <div align="center">
@@ -364,7 +361,6 @@ After this realization of a flaw in my design, I spent the beginning of Thanksgi
     <img src="media/golang.png">
 </div>
 
-##
 
 <h2 align="center">Capture the Flag - Website Exploitation</h2>
 <div align="center">
@@ -379,11 +375,9 @@ Exploited a website using SQL injection, cross-site scripting, and cross-site re
     <img src="media/ctf.gif"/>
 </div>
 
-##
-
 <h2 align="center">Parallel Computing Homework</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-1">Spec (Optimizing DGEMM with Intel Intrinsics)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-2-1">Spec (Particle Simulation with OpenMP)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-2-2">Spec (Particle Simulation with MPI)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw2-3">Spec (Particle Simulation with CUDA)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-3">Spec (Genomics Simulation with UPC++)</a>
@@ -407,7 +401,6 @@ This class was a lucky oppurtunity to take a course taught by legendary HPC prof
     <img src="media/particle.gif">
 </div>
 
-##
 
 <h2 align="center">Computer Architecture Labs</h2>
 <div align="center">
@@ -429,11 +422,10 @@ Series of computer achitecture labs written in C/C++/RISC-V assembly. Used Chise
     <img src="media/riscv.png">
 </div>
 
-##
 
 <h2 align="center">Efficient Video Super Resolution for Mobile Device</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
 This project tasked me to tackle real world problems we see today. Used state of the art (SOTA) Super Resolution DNNs and accelerated them to be deployable on mobile devices. We were tasked to do this in *real-time*. I had to use my knowledge of high performance computing and apply it to mobile devices and machine learning. That's a surprisingly difficult task, especially with today's advancements in AI/ML for mobile devices and the slowing down of Moore's Law. We are constrained by the compute power, energy, memory, and storage of a mobile device. You cannot necessarily solve that issue with more powerful hardware since we're limited by physics. Though the rise of accelerators on mobile devices, such as ARM's SME and Apple's Neural Engine, has made it possible to run deep learning models on mobile devices efficiently, latency and energy wise.
@@ -442,11 +434,10 @@ I used [CoCoPIE XGen: A Full-Stack AI-Oriented Optimizing Framework](https://arx
 
 The repo has been available to view [here](https://github.com/briancpark/video-super-resolution).
 
-##
 
 <h2 align="center">High Performance Machine Learning Projects</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img alt="Ray" src="https://img.shields.io/badge/Ray-028CF0?style=for-the-badge&logo=ray&logoColor=white"><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 Applied state of the art techniques to accelerate DNNs in PyTorch. Used NNI to do pruning, quantization, hyperparameter tuning, and knowledge distillation. Used TVM to apply compiler optimizations to DNN models for efficient inference runtime. This was another chance for me to use Bridges-2 supercomputer. These were warmup projects that eventually were applied to the final project of Efficient Video Super Resolution for Mobile Device.
 
@@ -465,7 +456,7 @@ Detected integer overflow and analyzed instructions using [DrCCTProf](https://gi
 
 <h2 align="center">Optimizing DNN Operators on Mobile GPU</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
 For this project, I implemented optimized GPU kernels for DNN operatiors via OpenCL. Specifically, I added full GPU support to RegNet and ShuffleNet V2. This was a contribution towards the XiaoMi's MACE open source project, a framework for DNNs on mobile smartphones. There needed to be support for group convolution for RegNet and channel shuffle for ShuffleNet in order to complete the support for the models to run on mobile GPUs.
@@ -476,15 +467,13 @@ I learned how to write OpenCL code, expanding my GPU programming skills beyond C
 
 The repo has been available to view [here](https://github.com/briancpark/csc766-project).
 
-##
-
 <div align="center">
     <img src="https://github.com/briancpark/mace/blob/master/docs/mace-logo.png?raw=true">
 </div>
 
 <h2 align="center">GPGPU Simulator and CUDA Projects</h2>
 <div align="center">
-    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
 A series of projects where I programmed in CUDA programming language. Those programming projects were writing optimized GPU kernels for quantum simulation, such as optimizing matrix multiplication for a multi-qubit gate quantum simulation. The quantum simulation optimized involved this algorithm:
@@ -510,7 +499,18 @@ The project was a great learning experience for me to understand how GPUs work a
     <img src="media/gpgpusim.png">
 </div>
 
-##
+<h2 align="center">Computer Graphics Projects</h2>
+<div align="center">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl">
+</div>
+
+Projects based on creating and rendering shapes and objects with OpenGL and WebGL shaders. Projects ranged from implementing triangles and ellipsoids, as well as implementing Ray Tracing, lighting, shadows, reflections, shading, and texture mapping. The final project involved combining all the concepts and implementing the game of Frogger.
+
+You can view the website of the project portfolio [here](https://briancpark.com/csc561/). (Excuse the lack of creativity)
+
+<div align="center">
+    <img src="media/cg.png">
+</div>
 
 <h2 align="center">Conclusion</h2>
 Every semester awaits an interesting project or assignment applying the knowledge learned in class. I make it a mission to pour 100% of my effort into every project I work on, whether it's on the job, for school, or for a personal side project. Computer Science is a very broad topic, so it's not easy to keep track of every project and what I learned from each one of them. Hell, I've went from basic Python programming, building web apps, designing a CPU, writing matrix multiplication in Assembly and accelerating it with SIMD and MIMD, writing kernel code for a toy OS, accelerating particle simulation by 1000X+ on today's top supercomputer, to accelerating state of the art deep learning models. It's a crazy ride of topics and domains to go through. Although most of these are toy projects and aren't applicable or deployable into the real world, they are still fun problems to tackle and understand fundamentals from. Having a bachelors and masters degree does not mean the learning ends there though, and I wish to continue to self learn and build personal projects on the side!
