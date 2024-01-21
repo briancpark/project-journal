@@ -66,7 +66,7 @@ Wrote up homework solutions through LaTeX and visualized problems with Python. L
 
 <h2 align="center">NBody</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://cs61bl.org/su20/projects/nbody/">Spec</a>
@@ -79,7 +79,7 @@ Made an $n$-body simulator. Using physics equations to simulate bodies in space 
 
 <h2 align="center">ArrayDeque</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://cs61bl.org/su20/projects/deques/">Spec</a>
@@ -92,7 +92,7 @@ Made an array deque data structure from scratch in Java. Also implemented unit t
 
 <h2 align="center">Gitlet</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://cs61bl.org/su20/projects/gitlet/">Spec</a>
@@ -105,7 +105,7 @@ A Git clone made in Java using SHA-1 serialization and basic data structures (no
 
 <h2 align="center">BearMaps</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="OpenStreetMap" src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img alt="junit5" src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/><img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><img alt="OpenStreetMap" src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/><img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://cs61bl.org/su20/projects/bearmaps/">Spec</a>
@@ -117,7 +117,7 @@ Created a mini web map application deployed on Heroku using OpenStreetMap of Ber
 
 <h2 align="center">Game of Life</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 <div align="center">
     <a href="https://cs61c.org/fa20/projects/proj1/">Spec</a>
@@ -130,7 +130,7 @@ Implemented John Conway's Game of Life in C through bit manipulations to produce
 
 <h2 align="center">RISC-V Classify</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="pytest" src="https://img.shields.io/badge/pytest-5E5E5E?style=for-the-badge&logo=pytest&logoColor=3692DA"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/RISC--V-2b336e?style=for-the-badge&logo=RISC-V&logoColor=E4A733"><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 <div align="center">
     <a href="https://cs61c.org/fa20/projects/proj2/">Spec</a>
@@ -145,7 +145,7 @@ In an advanced computer architecture class, I further learned how to accelerate 
 
 <h2 align="center">RISC-V CPU</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/><img src="https://img.shields.io/badge/RISC--V-2b336e?style=for-the-badge&logo=RISC-V&logoColor=E4A733"><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 <div align="center">
     <a href="https://cs61c.org/fa20/projects/proj3/">Spec</a>
@@ -158,7 +158,7 @@ Designed a CPU with datapath, control logic, and memory fully implemented in Log
 
 <h2 align="center">Numc</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"/><img alt="pytest" src="https://img.shields.io/badge/pytest-5E5E5E?style=for-the-badge&logo=pytest&logoColor=3692DA"/><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 <div align="center">
     <a href="https://cs61c.org/fa20/projects/proj4/">Spec</a>
@@ -251,7 +251,7 @@ I remember frying 3 of my microcontrollers. During the final presentation, I had
 
 <h2 align="center">Kaggle InClass Prediction Competition</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://people.eecs.berkeley.edu/~jrs/189/">Course Website with Spec</a><br>
@@ -271,7 +271,7 @@ For the neural network homework, I remember being frustrated as I wanted to trai
 <h2 align="center">Data Science Homework</h2>
 <div align="center">
 
-<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3775A9?style=for-the-badge&logo=plotly&logoColor=white"/><img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
+<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /><img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3775A9?style=for-the-badge&logo=plotly&logoColor=white"/><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/><img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
 
 </div>
 <div align="center">
@@ -377,7 +377,7 @@ Exploited a website using SQL injection, cross-site scripting, and cross-site re
 
 <h2 align="center">Parallel Computing Homework</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="X86" src="https://img.shields.io/badge/x86-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 <div align="center">
     <a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-1">Spec (Optimizing DGEMM with Intel Intrinsics)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-2-1">Spec (Particle Simulation with OpenMP)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-2-2">Spec (Particle Simulation with MPI)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw2-3">Spec (Particle Simulation with CUDA)</a>-<a href="https://sites.google.com/lbl.gov/cs267-spr2022/hw-3">Spec (Genomics Simulation with UPC++)</a>
@@ -404,7 +404,7 @@ This class was a lucky oppurtunity to take a course taught by legendary HPC prof
 
 <h2 align="center">Computer Architecture Labs</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/RISC--V-2b336e?style=for-the-badge&logo=RISC-V&logoColor=E4A733"><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 <div align="center">
      <a href="https://inst.eecs.berkeley.edu/~cs152/sp22/assignments/sp22/lab1.pdf">Spec (Lab 1)</a>-<a href="https://inst.eecs.berkeley.edu/~cs152/sp22/assignments/sp22/lab2.pdf">Spec (Lab 2)</a>-<a href="https://inst.eecs.berkeley.edu/~cs152/sp22/assignments/sp22/lab3.pdf">Spec (Lab 3)</a>-<a href="https://inst.eecs.berkeley.edu/~cs152/sp22/assignments/sp22/lab4.pdf">Spec (Lab 4)</a>-<a href="https://inst.eecs.berkeley.edu/~cs152/sp22/assignments/sp22/lab5.pdf">Spec (Lab 5)</a>
@@ -456,7 +456,7 @@ Detected integer overflow and analyzed instructions using [DrCCTProf](https://gi
 
 <h2 align="center">Optimizing DNN Operators on Mobile GPU</h2>
 <div align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
 </div>
 
 For this project, I implemented optimized GPU kernels for DNN operatiors via OpenCL. Specifically, I added full GPU support to RegNet and ShuffleNet V2. This was a contribution towards the XiaoMi's MACE open source project, a framework for DNNs on mobile smartphones. There needed to be support for group convolution for RegNet and channel shuffle for ShuffleNet in order to complete the support for the models to run on mobile GPUs.
@@ -473,7 +473,7 @@ The repo has been available to view [here](https://github.com/briancpark/csc766-
 
 <h2 align="center">GPGPU Simulator and CUDA Projects</h2>
 <div align="center">
-    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
+    <img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"/><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/><img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/><img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=4EAA25"/>
 </div>
 
 A series of projects where I programmed in CUDA programming language. Those programming projects were writing optimized GPU kernels for quantum simulation, such as optimizing matrix multiplication for a multi-qubit gate quantum simulation. The quantum simulation optimized involved this algorithm:
